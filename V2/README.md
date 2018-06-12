@@ -2,6 +2,8 @@
 
 pyboardCN V2学习板，是MicroPython中文社区在V1基础上改进而来，它是专门为学习和研究MicroPython而设计，方便大家快速学习和掌握目前开源硬件/智能硬件界的热点 MicroPython。它在功能上完全兼容官方的pybv10，可以直接运行官方pybv10的固件。它可以作为micropython学习板，也可以作为STM32学习板使用。
 
+![](pyboardCN_V2.jpg)
+
 
 ## 升级固件
 
